@@ -28,7 +28,7 @@ Welcome to our HomeShop E-Commerce Website! This platform allows users to browse
 1. Clone the repository:
 ```bash
 git clone https://github.com/ankit-s0360/HomeShop.git
-cd ecommerce-website
+cd HomeShop
 
 ```
 2. Install dependencies:
